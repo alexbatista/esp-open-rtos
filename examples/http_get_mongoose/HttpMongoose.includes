@@ -6,4 +6,4 @@
 ../../lwip/lwip/src/include
 ../../lwip/lwip/espressif/include
 ../../lwip/lwip/config
-/Users/rodrigopex/Tools/esp-open-sdk/esp-open-rtos/libc/xtensa-lx106-elf/include
+/home/alexbatista/esp-open-sdk/esp-open-rtos/libc/xtensa-lx106-elf/include

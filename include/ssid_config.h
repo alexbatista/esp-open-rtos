@@ -28,8 +28,8 @@
 //#define WIFI_SSID "GVT-C3C5"
 //#define WIFI_PASS "5403000556"
 
-#define WIFI_SSID "Netuno"
-#define WIFI_PASS "11111118"
+#define WIFI_SSID "IC"
+#define WIFI_PASS "icomputacaoufal"
 
 //#define WIFI_SSID "IC"
 //#define WIFI_PASS "icomputacaoufal"

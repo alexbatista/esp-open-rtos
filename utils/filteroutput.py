@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/bin/python
 #
 # A thin Python wrapper around addr2line, can monitor esp-open-rtos
 # output and uses gdb to convert any suitable looking hex numbers
